@@ -1,0 +1,23 @@
+/* LOGO */
+
+img#titulo {
+	width: 600px;
+	margin: auto;
+    display: block;
+}
+
+/* LOGO PIE PAGINA*/
+img#logopie {
+	width: 420px;
+	margin: auto;
+    display: block;
+}
+
+/* VIDEOS YOUTUBE*/
+iframe.youtube {
+	width: 800px;
+	height: 550px;
+	margin: auto;
+    display: block;
+    padding-bottom: 3em;
+}
